@@ -6,7 +6,6 @@
 - :technologist: I always use Software as a solution for every `Problem`.
 - :student: I’m currently learning `Software Engineering`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`.
 - :boom: You can visit `my website(I haven't done it yet)`.
 <br>
 
